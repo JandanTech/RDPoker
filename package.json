@@ -39,6 +39,8 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "angular-animate": "^1.4.9",
+    "angular-material": "^1.0.4",
     "google-cdn-data": "^0.1.23",
     "grunt-google-cdn": "^0.4.3",
     "grunt-karma": "^0.12.1",
